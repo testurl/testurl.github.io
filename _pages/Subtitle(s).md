@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "subtitle(s)"
-permalink: /subtitle(s)/
+title: "Subtitle(s)"
+permalink: /Subtitle(s)/
 author_profile: true
 ---
 
