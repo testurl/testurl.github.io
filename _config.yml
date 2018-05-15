@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Test Name 1"
-  avatar           : "test_picture_1.png"
+  avatar           : "https://github.com/testurl/testurl.github.io/blob/master/images/test_picture_1.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://www.bing.com/search?q=test+google+scholar&form=EDNTHT&mkt=zh-cn&httpsmsn=1&refig=6ba5c1dd6a8846e3cecc13e2a6cb9e70&PC=DCTS&sp=-1&pq=test+google+scholar&sc=1-18&qs=n&sk=&cvid=6ba5c1dd6a8846e3cecc13e2a6cb9e70"
   email            :
   uri              :
   bitbucket        :
