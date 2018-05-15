@@ -1,6 +1,6 @@
 ---
 title: "Test paper"
-collection: Subtitle(s)
+collection: publications
 permalink: /Subtitle(s)/test_paper.md
 excerpt: 'test paper'
 date: 2018-5-15
