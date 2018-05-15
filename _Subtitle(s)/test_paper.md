@@ -1,7 +1,7 @@
 ---
 title: "Test paper"
 collection: publications
-permalink: /Subtitle(s)/test_paper.md
+permalink: /Subtitle(s)/test_paper
 excerpt: 'test paper'
 date: 2018-5-15
 venue: 'Journal 1'
