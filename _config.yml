@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Test Name 1"
-  avatar           : "test_picture_1.png"
+  avatar           : "testPic.png"
   bio              : "Tesr Biography"
   location         : "Location"
   employer         :
