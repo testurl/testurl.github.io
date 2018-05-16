@@ -1,7 +1,7 @@
 ---
 title: "Test Paper"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/test_paper_1
 excerpt: 'sentences'
 date: 2009-10-01
 venue: 'Italic'
