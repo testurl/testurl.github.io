@@ -3,21 +3,21 @@ main:
   - title: "Subtitle 1"
     url: /Subtitle1/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "Subtitle 2"
     url: /Subtitle2/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
 
