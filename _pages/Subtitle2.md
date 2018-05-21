@@ -50,7 +50,7 @@ ICDCS 2017 (Poster)
 
 Shuang Wang, Yuchen Zhang, Wenrui Dai, Kristin Lauter, Miran Kim, Yuzhe Tang, Xiaoqian Jiang
 HEALER: Homomorphic computation of ExAct Logistic rEgRes-sion for secure rare disease variants analysis in GWAS
-BioInformatics 2016 (Impact factor: 4.981), [[link](https://academic.oup.com/bioinformatics/article/32/2/211/1744166] 
+BioInformatics 2016 (Impact factor: 4.981), [[link]](https://academic.oup.com/bioinformatics/article/32/2/211/1744166) 
   
 2015 
 ======
