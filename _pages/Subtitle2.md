@@ -85,11 +85,11 @@ HPBDC @ICDCS 2015, [pdf](http://tristartom.github.io/tba.html)
 
 Yuzhe Tang, Ting Wang, Ling Liu, Xin Hu, Jiyong Jang 
 Lightweight Authentication of Freshness in Outsourced Key-Value Stores
-ACSAC 2014 (AR<19.9%), [pdf] 
+ACSAC 2014 (AR<19.9%), [[pdf]](http://tristartom.github.io/docs/acsac14.pdf)
   
 Yuzhe Tang, Ling Liu, Arun Iyengar 
 e-PPI: Locator Service in Information Networks with Personalized Privacy Preservation 
-ICDCS 2014 (AR<13%), [pdf, slides, Tech report GIT-CERCS-14-02: pdf] 
+ICDCS 2014 (AR<13%), [[pdf](http://tristartom.github.io/docs/icdcs14.pdf), [slides](http://tristartom.github.io/docs/icdcs14-slides.pdf), Tech report GIT-CERCS-14-02: [pdf](http://www.cercs.gatech.edu/tech-reports/tr2014/git-cercs-14-02.pdf)] 
   
 Wei Tan, Sandeep Tata, Yuzhe Tang, Liana Fong 
 Diff-Index: Differentiated Index in Distributed Log-Structured Data Stores 
