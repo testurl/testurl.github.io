@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Subtitle 1"
-permalink: /Subtitle1/
+title: "Members"
+permalink: /Members/
 author_profile: true
 ---
 
