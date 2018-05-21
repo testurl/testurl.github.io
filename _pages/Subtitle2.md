@@ -57,7 +57,7 @@ BioInformatics 2016 (Impact factor: 4.981), [[link]](https://academic.oup.com/bi
 
 Scott D Constable, Yuzhe Tang, Shuang Wang, Xiaoqian Jiang, Steve Chapin
 Privacy-preserving GWAS analysis on federated genomic datasets
-BMC Medical Informatics and Decision Making 2015, [Open access](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S2) 
+BMC Medical Informatics and Decision Making 2015, [[Open access]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-15-S5-S2) 
   
 Haoyi Shi, Shuang Wang, Wenrui Dai, Yuzhe Tang, Xiaoqian Jiang, LucilaOhno-Machado
 Secure Multi-pArty Computation Grid LOgistic REgression (SMAC-GLORE)
@@ -65,20 +65,20 @@ TBC 2015
   
 Yue Duan, Mu Zhang, Heng Yin, Yuzhe Tang 
 Privacy-Preserving Offloading of Mobile App to the Public Cloud 
-HotCloud 2015, [pdf](https://www.usenix.org/system/files/conference/hotcloud15/hotcloud15-duan.pdf)
+HotCloud 2015, [[pdf]](https://www.usenix.org/system/files/conference/hotcloud15/hotcloud15-duan.pdf)
   
 Yuzhe Tang, Ling Liu 
 Privacy-Preserving Multi-Keyword Search in Information Networks 
-TKDE 2015, [pdf](http://tristartom.github.io/docs/tkde15.pdf)
+TKDE 2015, [[pdf]](http://tristartom.github.io/docs/tkde15.pdf)
   
 Yuzhe Tang, Arun Iyengar, Wei Tan, Liana Fong, Ling Liu, Balaji Palanisamy 
 Deferred Lightweight Indexing for Log-Structured Key-Value Stores
-CCGrid 2015, (AR<25.7%), [pdf](http://tristartom.github.io/docs/ccgrid15.pdf), [src](https://github.com/tristartom/key-value-store-indexing) 
-★ Best Paper Award [link](http://cloud.siat.ac.cn/ccgrid2015/awards.html)
+CCGrid 2015, (AR<25.7%), [[pdf]](http://tristartom.github.io/docs/ccgrid15.pdf), [[src]](https://github.com/tristartom/key-value-store-indexing) 
+★ Best Paper Award [[link]](http://cloud.siat.ac.cn/ccgrid2015/awards.html)
   
 Yuzhe Tang, Ling Liu, Junichi Tatemura, Hakan Hacigumus 
 KTV Tree: Interactive Top-K Aggregation on Large Dataset in Cloud 
-HPBDC @ICDCS 2015, [pdf](http://tristartom.github.io/tba.html)
+HPBDC @ICDCS 2015, [[pdf]](http://tristartom.github.io/tba.html)
   
 2014 
 ======
@@ -89,11 +89,11 @@ ACSAC 2014 (AR<19.9%), [[pdf]](http://tristartom.github.io/docs/acsac14.pdf)
   
 Yuzhe Tang, Ling Liu, Arun Iyengar 
 e-PPI: Locator Service in Information Networks with Personalized Privacy Preservation 
-ICDCS 2014 (AR<13%), [[pdf](http://tristartom.github.io/docs/icdcs14.pdf), [slides](http://tristartom.github.io/docs/icdcs14-slides.pdf), Tech report GIT-CERCS-14-02: [pdf](http://www.cercs.gatech.edu/tech-reports/tr2014/git-cercs-14-02.pdf)] 
+ICDCS 2014 (AR<13%), [ [pdf](http://tristartom.github.io/docs/icdcs14.pdf), [slides](http://tristartom.github.io/docs/icdcs14-slides.pdf), Tech report GIT-CERCS-14-02: [pdf](http://www.cercs.gatech.edu/tech-reports/tr2014/git-cercs-14-02.pdf) ] 
   
 Wei Tan, Sandeep Tata, Yuzhe Tang, Liana Fong 
 Diff-Index: Differentiated Index in Distributed Log-Structured Data Stores 
-EDBT 2014, [pdf](http://tristartom.github.io/docs/edbt14.pdf) 
+EDBT 2014, [[pdf]](http://tristartom.github.io/docs/edbt14.pdf) 
   
 Yuzhe Tang, Ting Wang, Xin Hu, Reiner Sailer, Peter Pietzuch, Ling Liu
 Outsourcing Key-Value Stores with Verifiable Data Freshness
@@ -101,33 +101,33 @@ ICDE 2014 (System demo), [[pdf](http://tristartom.github.io/docs/ICDE14_demo_768
   
 Balaji Palanisamy, Ling Liu, Kisung Lee, Shicong Meng and Yuzhe Tang 
 Anonymizing Continuous Queries with Delay-tolerant Mix-zones on Road Networks 
-JDPD 2014, [pdf](https://www.cc.gatech.edu/~lingliu/papers/2013/delaytolerant-dapd.pdf)
+JDPD 2014, [[pdf]](https://www.cc.gatech.edu/~lingliu/papers/2013/delaytolerant-dapd.pdf)
   
 2013 
 ======
 
 Yuzhe Tang, Bugra Gedik 
 Auto-pipelining for Data Stream Processing 
-TPDS 2013, [pdf](http://tristartom.github.io/docs/tpds13.pdf) 
+TPDS 2013, [[pdf]](http://tristartom.github.io/docs/tpds13.pdf) 
   
 Qi Zhang, Ling Liu, Yi Ren, Kisung Lee, Yuzhe Tang, Xu Zhao, Yang Zhou
 Residency Aware Inter-VM Communication in Virtualized Cloud: Performance Measurement and Analysis
-IEEE Cloud 2013, [pdf](https://www.cc.gatech.edu/~lingliu/papers/2013/QiZhang-Cloud2013.pdf) 
+IEEE Cloud 2013, [[pdf]](https://www.cc.gatech.edu/~lingliu/papers/2013/QiZhang-Cloud2013.pdf) 
   
 Kisung Lee, Ling Liu, Yuzhe Tang, Qi Zhang, Yang Zhou
 Efficient and Customizable Data Partitioning Framework for Distributed Big RDF Data Processing in the Cloud
-IEEE Cloud 2013, [pdf](https://www.cc.gatech.edu/~lingliu/papers/2013/KisungLee-RDF-Cloud.pdf)
+IEEE Cloud 2013, [[pdf]](https://www.cc.gatech.edu/~lingliu/papers/2013/KisungLee-RDF-Cloud.pdf)
   
 2012
 ====== 
 
 Balaji Palanisamy, Ling Liu, Kisung Lee, Shicong Meng and Yuzhe Tang 
 Attack Resilient Mixzones for Mobile Objects on Road Networks 
-IEEE MSN 2012, [pdf](https://www.cc.gatech.edu/~lingliu/papers/2012/MSN2012-mixzone.pdf) 
+IEEE MSN 2012, [[pdf]](https://www.cc.gatech.edu/~lingliu/papers/2012/MSN2012-mixzone.pdf) 
   
 Shicong Meng, Arun Iyengar, Isabelle Rouvellou, Ling Liu, Kisung Lee, Balaji Palanisamy, Yuzhe Tang 
 Reliable State Monitoring in Cloud Data Centers 
-IEEE Cloud 2012, [pdf](https://www.cc.gatech.edu/~lingliu/papers/2012/ReliableMonitoring.pdf) 
+IEEE Cloud 2012, [[pdf]](https://www.cc.gatech.edu/~lingliu/papers/2012/ReliableMonitoring.pdf) 
 ★ Best Paper Award 
 
 2011
@@ -135,26 +135,26 @@ IEEE Cloud 2012, [pdf](https://www.cc.gatech.edu/~lingliu/papers/2012/ReliableMo
 
 Yuzhe Tang, Ting Wang, Ling Liu, Shicong Meng, Balaji Palanisamy
 Privacy Preserving Indexing for eHealth Information Networks
-ACM CIKM 2011, (AR<14%, Full paper), [pdf](http://tristartom.github.io/docs/cikm11.pdf) 
+ACM CIKM 2011, (AR<14%, Full paper), [[pdf]](http://tristartom.github.io/docs/cikm11.pdf) 
   
 Yuzhe Tang, Jianliang Xu, Shuigeng Zhou, Wang-Chien Lee, Dingxiong Deng, Yue Wang 
 A Lightweight Multi-dimensional Index for Complex Queries over DHTs 
-TPDS 2011, [pdf](http://tristartom.github.io/docs/tpds11.pdf) 
+TPDS 2011, [[pdf]](http://tristartom.github.io/docs/tpds11.pdf) 
   
 Prior to 2011
 ====== 
 
 Yuzhe Tang, Shuigeng Zhou, Jianliang Xu 
 LIGHT: A Query-Efficient yet Low-Maintenance Indexing Scheme over DHTs 
-TKDE 2010, [pdf](http://tristartom.github.io/docs/tkde10.pdf) 
+TKDE 2010, [[pdf]](http://tristartom.github.io/docs/tkde10.pdf) 
   
 Yuzhe Tang, Jianliang Xu, Shuigeng Zhou, Wang-Chien Lee 
 m-LIGHT: Indexing Multi-Dimensional Data over DHTs 
-ICDCS 2009 (AR<16%), [pdf](http://tristartom.github.io/docs/icdcs09.pdf) 
+ICDCS 2009 (AR<16%), [[pdf]](http://tristartom.github.io/docs/icdcs09.pdf) 
   
 Yuzhe Tang, Shuigeng Zhou 
 LHT: A Low-Maintenance Indexing Scheme over DHTs
-ICDCS 2008 (AR<16%), [pdf](http://tristartom.github.io/docs/icdcs08.pdf) 
+ICDCS 2008 (AR<16%), [[pdf]](http://tristartom.github.io/docs/icdcs08.pdf) 
   
 Patents
 ====== 
