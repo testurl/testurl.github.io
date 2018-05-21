@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Project Name"
+title                    : "FSSL"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "FSSL"
   avatar           : "https://raw.githubusercontent.com/testurl/testurl.github.io/master/images/profile.png"
-  bio              : "Tesr Biography"
+  bio              : 
   location         : 
   employer         :
   googlescholar    : 
