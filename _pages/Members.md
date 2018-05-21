@@ -15,11 +15,11 @@ Current members
 | Kai Li | PhD | ![](../images/kai1.jpeg) | [likai1993.github.io](http://likai1993.github.io) |
 | Vishal Kudale | Master | |
 | Qinzhe Zhang | Master | |
-| Qiwu Zou | Undergraduante | | | 
-| Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
 | Hao Zhou | Undergraduante | |
+| Qiwu Zou | Undergraduante | | | 
 | Muzhen Li | Undergraduante | |
 | Congcong Xie | Undergraduante | |
+| Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
 
 ![Group picture (May, 2018)](../images/group_2018.05-small.jpg)
 
