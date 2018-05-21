@@ -21,6 +21,8 @@ Current members
 | Congcong Xie | Undergraduante | |
 | Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
 
+#### Group picture (May, 2018)
+
 ![Group picture (May, 2018)](../images/group_2018.05-small.jpg)
 
 
