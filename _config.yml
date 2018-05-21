@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Test Name 1"
+  name             : "FSSL"
   avatar           : "https://raw.githubusercontent.com/testurl/testurl.github.io/master/images/profile.png"
   bio              : "Tesr Biography"
-  location         : "Location"
+  location         : 
   employer         :
-  googlescholar    : "https://www.bing.com/search?q=test+google+scholar&form=EDNTHT&mkt=zh-cn&httpsmsn=1&refig=6ba5c1dd6a8846e3cecc13e2a6cb9e70&PC=DCTS&sp=-1&pq=test+google+scholar&sc=1-18&qs=n&sk=&cvid=6ba5c1dd6a8846e3cecc13e2a6cb9e70"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://www.bing.com/search?q=test+orcid&form=EDGTCT&qs=PF&cvid=3fd913a109084f7c97b71674ed02a0d8&refig=1a5d95d24c7c4fcac0ae190d193d29cd&cc=US&setlang=zh-Hans-CN&PC=DCTS"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testTwitter"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
