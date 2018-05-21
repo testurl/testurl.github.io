@@ -5,35 +5,30 @@ permalink: /Members/
 author_profile: true
 ---
 
+Current members
+---
+
+| Name | Role | Picture | Webpage |
+| ---- | --- | --- | --- |
+| Dr. Yuzhe Tang | Faculty | ![](images/Yuzhe-Richard.jpg) | [[webpage](http://ecs.syr.edu/faculty/yuzhe)] |
+| Ju Chen | PhD | ![](images/ju2.jpg) | [chenju2k6.github.io](http://chenju2k6.github.io/) |
+| Kai Li | PhD | ![](images/kai1.jpeg) | [likai1993.github.io](http://likai1993.github.io) |
+| Vishal Kudale | Master | |
+| Qinzhe Zhang | Master | |
+| Qiwu Zou | Undergraduante | | | 
+| Zhehu Yuan | Undergraduante | ![](images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
+| Hao Zhou | Undergraduante | |
+| Muzhen Li | Undergraduante | |
+| Congcong Xie | Undergraduante | |
+
+![Group picture (May, 2018)](http://tristartom.github.io/group_2018.05-small.jpg)
 
 
-Professor
-======
 
-[Yuzhe Tang](http://tristartom.github.io/index.html)
-------
+Alumni
+---
 
-![Description](/images/bio-photo.jpg)
+- Visiting student: Cheng Xu [[webpage](https://xuc.me/)]
+- Master students
+    - Hari Krishna Gajarla, Haoyi Shi, Kang Lou, K. Areekijseree, Zihao Xing, Sahil Deepak Shah
 
-Assistant Professor (Tenure Track) 
-
-Department of EECS 
-
-Syracuse University 
- 
-Web: http://ecs.syr.edu/faculty/yuzhe 
-
-Email: ytang100@syr.edu
-
-Office: 4-193, CST (315.443.4350) 
-
-Mailing: 4-206 Center for Science and Technology, Syracuse, NY 13244-4100 
-
-Ph.D. Students
-======
-
-Graduated Student
-======
-
-Undergraduate Student
-======
