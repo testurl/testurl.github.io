@@ -17,8 +17,8 @@ Current members
 | Qinzhe Zhang | Master | |
 | Hao Zhou | Undergraduante | |
 | Qiwu Zou | Undergraduante | | | 
-| Muzhen Li | Undergraduante | |
-| Congcong Xie | Undergraduante | |
+| Muzhen Li | Undergraduante | | [[limuzhen.github.io](https://cyurse.github.io/limuzhen.github.io/)]
+| Congcong Xie | Undergraduante | ![](../images/congcong.jpg)  | [[congcong.github.io](https://congcongxie.github.io/Congcong.github.io/)]
 | Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
 
 #### Group picture (May, 2018)
@@ -29,7 +29,7 @@ Current members
 Alumni
 ---
 
-- Visiting student: Cheng Xu [[webpage](https://xuc.me/)]
+- Visiting student: [[Cheng Xu](https://xuc.me/)]
 - Master students
-    - Hari Krishna Gajarla, Haoyi Shi, Kang Lou, K. Areekijseree, Zihao Xing, Sahil Deepak Shah
+    - Hari Krishna Gajarla, Haoyi Shi, Kang Lou, K. Areekijseree, [[Zihao Xing](http://zixing33.cc/)], Sahil Deepak Shah
 
