@@ -18,7 +18,7 @@ Current members
 | Hao Zhou | Undergraduante | |
 | Qiwu Zou | Undergraduante | | | 
 | Muzhen Li | Undergraduante | | [[limuzhen.github.io](https://cyurse.github.io/limuzhen.github.io/)]
-| Congcong Xie | Undergraduante | ![](../images/congcong.jpg)  | [[congcong.github.io](https://congcongxie.github.io/Congcong.github.io/)]
+| Congcong Xie | Undergraduante | ![](../images/congcong.jpeg)  | [[congcong.github.io](https://congcongxie.github.io/Congcong.github.io/)]
 | Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
 
 #### Group picture (May, 2018)
