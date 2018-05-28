@@ -13,7 +13,7 @@ Current members
 | Dr. Yuzhe Tang | Faculty | ![](../images/Yuzhe-Richard.jpg) | [[ecs.syr.edu/faculty/yuzhe](http://ecs.syr.edu/faculty/yuzhe)] |
 | Ju Chen | PhD | ![](../images/ju2.jpg) | [[chenju2k6.github.io](http://chenju2k6.github.io/)] |
 | Kai Li | PhD | ![](../images/kai1.jpeg) | [[likai1993.github.io](http://likai1993.github.io)] |
-| Vishal Kudale | Master | |
+| Vishal Kudale | Master | ![](../images/vishal.jpg) | [[vishalkudale92.github.io](http://vishalkudale92.github.io)]
 | Qinzhe Zhang | Master | |
 | Hao Zhou | Undergraduante | |
 | Qiwu Zou | Undergraduante | | | 
