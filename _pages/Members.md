@@ -31,5 +31,5 @@ Alumni
 
 - Visiting student: [[Cheng Xu](https://xuc.me/)]
 - Master students
-    - Hari Krishna Gajarla, Haoyi Shi, Kang Lou, K. Areekijseree, [[Zihao Xing](http://zixing33.cc/)], Sahil Deepak Shah
+    - Hari Krishna Gajarla, Haoyi Shi, [[Kang Lou](https://www.linkedin.com/in/kanglou)], K. Areekijseree, [[Zihao Xing](http://zixing33.cc/)], Sahil Deepak Shah
 
