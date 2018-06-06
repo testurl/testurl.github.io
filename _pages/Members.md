@@ -16,7 +16,7 @@ Current members
 | Vishal Kudale | Master | ![](../images/vishal.jpg) | [[vishalkudale92.github.io](http://vishalkudale92.github.io)]
 | Qinzhe Zhang | Master | | [[linkedin](https://www.linkedin.com/in/qinzhez)]
 | Hao Zhou | Undergraduante | | [[linkedin](https://www.linkedin.com/in/hao-zhou-1a3680135)]
-| Qiwu Zou | Undergraduante | | |[[linkedin](https://www.linkedin.com/in/qiwu-zou-096810131)]  
+| Qiwu Zou | Undergraduante | |[[linkedin](https://www.linkedin.com/in/qiwu-zou-096810131)]  
 | Muzhen Li | Undergraduante | | [[limuzhen.github.io](https://cyurse.github.io/limuzhen.github.io/)]
 | Congcong Xie | Undergraduante | ![](../images/congcong.jpeg)  | [[congcong.github.io](https://congcongxie.github.io/Congcong.github.io/)]
 | Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
