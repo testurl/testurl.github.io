@@ -14,9 +14,9 @@ Current members
 | Ju Chen | PhD | ![](../images/ju2.jpg) | [[chenju2k6.github.io](http://chenju2k6.github.io/)] |
 | Kai Li | PhD | ![](../images/kai1.jpeg) | [[likai1993.github.io](http://likai1993.github.io)] |
 | Vishal Kudale | Master | ![](../images/vishal.jpg) | [[vishalkudale92.github.io](http://vishalkudale92.github.io)]
-| Qinzhe Zhang | Master | | [[linkedin](https://www.linkedin.com/in/qinzhez)]
-| Hao Zhou | Undergraduante | | [[linkedin](https://www.linkedin.com/in/hao-zhou-1a3680135)]
-| Qiwu Zou | Undergraduante | |[[linkedin](https://www.linkedin.com/in/qiwu-zou-096810131)]  
+| Qinzhe Zhang | Master | ![](../images/qinzhe.jpg) | [[linkedin](https://www.linkedin.com/in/qinzhez)]
+| Hao Zhou | Undergraduante | ![](../images/haozhou.jpg) | [[linkedin](https://www.linkedin.com/in/hao-zhou-1a3680135)]
+| Qiwu Zou | Undergraduante | ![](../images/qiwu.jpg) |[[linkedin](https://www.linkedin.com/in/qiwu-zou-096810131)]  
 | Muzhen Li | Undergraduante | | [[limuzhen.github.io](https://cyurse.github.io/limuzhen.github.io/)]
 | Congcong Xie | Undergraduante | ![](../images/congcong.jpeg)  | [[congcong.github.io](https://congcongxie.github.io/Congcong.github.io/)]
 | Zhehu Yuan | Undergraduante | ![](../images/zhehu.jpg) | [[zhehuyuan.github.io](https://zhehuyuan.github.io/)] |
